@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+  a {
+    text-decoration: none;
+  }
+  ul,
+  ol {
+    list-style: none;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+  }
+  h1 {
+    font-size: 65pt;
+  }
+  h2 {
+    font-size: 45pt;
+  }
+  h3 {
+    font-size: 18pt;
+  }
+}
+.App-header {
+  text-align: center;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 10s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.section-info {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Projects {
+  margin: 30px;
+  h2 {
+    text-align: center;
+  }
+}
