@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
+    "image": "https://i.postimg.cc/nVXMw252/P2.webp",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "title": "Créez une page web dynamique avec JavaScript",
+    "image": "https://i.postimg.cc/g0mJ7Q3f/P3.webp",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "title": "Débuggez et optimisez un site de photographe",
+    "image": "https://i.postimg.cc/rpjm2jJz/P4.webp",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "title": "Créez une application web de location immobilière avec React",
+    "image": "https://i.postimg.cc/G2ppLD7K/P5.webp",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "title": "Développez le back-end d'un site de notation de livres",
+    "image": "https://i.postimg.cc/PJprZjk8/P6.webp",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "title": "Planifiez le développement du site de votre client",
+    "image": "https://i.postimg.cc/cCp1Bbsk/P7.webp",
+    "description": ""
+  }
+]
